@@ -10,11 +10,11 @@ This is a Pedagogical exercice that demonstrates a product management applicatio
 This project was part of a learning process to practice and demonstrate the ability to create interactive and visually appealing UI components.
 
 ## Screenshots
-### Here’s a preview of the subscription page:
-  **product2__add.jpg**
-  **product2__before_modification.jpg**
-  **product1_2__modified.jpg**
-  **product1__deleted.jpg**  
+### Here’s a preview of the ListView and it's different functionalities :
+  - **product2__add.jpg**
+  - **product2__before_modification.jpg**
+  - **product1_2__modified.jpg**
+  - **product1__deleted.jpg**  
 
 
 
